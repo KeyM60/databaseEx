@@ -1,0 +1,9 @@
+database hospital
+useser ssgdoctor
+password ssg
+
+GRANT ALL PRIVILEGES ON `hospital`.* TO `ssgdoctor`@`%` WITH GRANT OPTION
+
+host      | user 
+%         | ssgdoctor
+localhost | ssgdoctor
