@@ -1,0 +1,8 @@
+database hr
+user ssg
+password ssg
+
+host       | user             |
++-----------+------------------+
+%          | hr
+localhost  | ssg
